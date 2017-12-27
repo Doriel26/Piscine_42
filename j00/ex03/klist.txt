@@ -1,0 +1,8 @@
+Credentials cache: API:1BE37199-5F5F-461D-9C4A-25D301ECF308
+        Principal: dchiche@42.FR
+
+  Issued                Expires               Principal
+Jul  3 12:11:58 2017  Jul 10 12:11:58 2017  krbtgt/42.FR@42.FR
+Jul  3 12:12:00 2017  Jul 10 12:11:58 2017  ldap/ldap-proxy.42.fr@42.FR
+Jul  3 12:12:01 2017  Jul 10 12:11:58 2017  HTTP/home-piscine.42.fr@42.FR
+Jul  3 14:01:16 2017  Jul 10 12:11:58 2017  host/vgs-fn1.42.fr@42.FR
